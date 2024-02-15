@@ -1,0 +1,22 @@
+<mxfile host="Electron" modified="2024-02-15T20:48:35.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="oNAfH-XN2icHF7-j322A" version="23.0.2" type="device">
+  <diagram name="Page-1" id="_J6HJHUhG5IzxV83CUwv">
+    <mxGraphModel dx="756" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dWvBo8iCt_FARk4mqyUM-1" value="3. Stage:&amp;nbsp; Commands to add files to &quot;Staging Area&quot;. Commit first, then push to remote server.&lt;br&gt;&amp;nbsp; - git add&lt;br&gt;&amp;nbsp; - git status&lt;br&gt;&amp;nbsp; - &lt;b&gt;git commit:&amp;nbsp; Add a file(s) to be later sent to remote repo&lt;/b&gt;&lt;br&gt;&amp;nbsp; - git diff" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dWvBo8iCt_FARk4mqyUM-3" value="2. Branch:&amp;nbsp; Create a safe working area.&lt;br&gt;&amp;nbsp; - git branch [name]&lt;br&gt;&amp;nbsp; - git branch: list branches&lt;br&gt;&amp;nbsp; - git checkout - switch between branches.&lt;br&gt;&amp;nbsp; - git log:&amp;nbsp; see what you&#39;ve commited." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="149" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dWvBo8iCt_FARk4mqyUM-4" value="1. Setup:&amp;nbsp; Associate a file location with a remote repo:&lt;br&gt;&amp;nbsp; - git init&lt;br&gt;&amp;nbsp; - git config&lt;br&gt;&amp;nbsp; - git clone&lt;br&gt;&amp;nbsp; - git remote" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="470" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dWvBo8iCt_FARk4mqyUM-5" value="3. Share and Update:&amp;nbsp; Download from remote repo, Update remote repo.&lt;br&gt;&amp;nbsp; - git remote add origin &quot;url&quot;&lt;br&gt;&amp;nbsp; - git push --all&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="470" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
