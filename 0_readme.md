@@ -6,3 +6,4 @@ This set of steps takes you through the fundamental git commands that take you t
   SETUP=>ADD to Staging=>COMMIT=>PUSH to Repo.
 
 TEST GIT Extension download.
+Check in a branch.
