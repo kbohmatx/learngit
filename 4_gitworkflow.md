@@ -1,4 +1,4 @@
-# Common Workflow
+# Common Workflow!
 
 1. CREATE a Branch for Feature
     git branch [name]
@@ -20,3 +20,4 @@
     git push origin --delete calc-div
 
 
+6. Test
