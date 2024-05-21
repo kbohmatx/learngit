@@ -19,5 +19,3 @@
 5. Delete Branch
     git push origin --delete calc-div
 
-
-6. Test
