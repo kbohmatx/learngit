@@ -4,3 +4,5 @@ Version control is an essential skill for developers to master, and Git is by fa
 
 This set of steps takes you through the fundamental git commands that take you through a "GIT Workflow": IE:
   SETUP=>ADD to Staging=>COMMIT=>PUSH to Repo.
+
+TEST GIT Extension download.
