@@ -6,4 +6,6 @@
 2. You'll start by creating a branch. This can be done in 2 ways.  1. The tree view 2. the pane view, you can click on an item and right click.
 3. Once a branch is created, it will auto checkout and become the active branch.
 4. When done making changes, add and commit, then view the Git Extensions.
-5. 
+5. Click the Square Icon that signifies your current branch.
+    => and view the info below to show what's been done. The Diff tab will show you.
+6. The push button is a toolbar item at the top in blue.
