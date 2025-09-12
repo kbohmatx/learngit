@@ -1,3 +1,4 @@
 . 
 1 TIKKI
 0 GUAC
+1 PLAIN
